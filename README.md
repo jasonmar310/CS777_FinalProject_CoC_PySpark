@@ -22,8 +22,7 @@ Research Question:
 3. Can we predict a clan's type based on its performance metrics and member statistics?
 
 Data Source:
-https://www.kaggle.com/datasets/asaniczka/clash-of-clans-clans-dataset-2023-3-5m-clans/da
-ta
+https://www.kaggle.com/datasets/asaniczka/clash-of-clans-clans-dataset-2023-3-5m-clans/data
 
 -----
 
